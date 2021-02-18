@@ -1,1 +1,3 @@
-21-01-18 Lesson_1_Lukyanchikov_ID.ipynb
+math_stat - Теория вероятностей и математическая статистика
+ds_lib - Библиотеки Python для Data Science Numpy, Matplotlib, Scikit-learn
+
